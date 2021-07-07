@@ -15,12 +15,17 @@ This project contains:
   ° Standardize features
 
 
+
 2 - Advanced Models
 
   ° XGBoost: Extreme Gradient Boosting
+  
   ° PolynomialFeatures
+  
   ° Regularization | Lasso, Ridge Regression
+  
   ° Hyperparameters optimization
+
 
 
 3 - Interpretation of models and conclusion
