@@ -12,7 +12,7 @@ This project contains:
   
   ° Missing Values
   
-  ° Standardize features
+  ° Standarization features
 
 
 
