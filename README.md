@@ -7,8 +7,11 @@ This project contains:
 1 - Data transformation:
 
   ° Encoding
+  
   ° Treatmen of Outliers
+  
   ° Missing Values
+  
   ° Standardize features
 
 
