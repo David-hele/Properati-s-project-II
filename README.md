@@ -16,7 +16,7 @@ This project contains:
 
 
 
-2 - Advanced Models
+2 - Advanced Models:
 
   ° XGBoost: Extreme Gradient Boosting
   
